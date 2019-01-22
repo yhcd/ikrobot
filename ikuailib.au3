@@ -10,7 +10,7 @@
 
 #Include <GuiToolBar.au3>
 #include <Process.au3>
-;#RequireAdmin
+#RequireAdmin
 
 Global $fileLog
 Global $ffmpegTitle = "record screen use ffmpeg"
